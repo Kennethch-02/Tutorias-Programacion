@@ -113,7 +113,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Application.Login">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -242,6 +242,8 @@
       <workItem from="1604891194414" duration="6152000" />
       <workItem from="1604941202667" duration="32088000" />
       <workItem from="1628008969877" duration="270000" />
+      <workItem from="1628009533878" duration="256000" />
+      <workItem from="1628009806573" duration="142000" />
     </task>
     <task id="LOCAL-00001" summary="Add JavaFx">
       <created>1604464314006</created>
